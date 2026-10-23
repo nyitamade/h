@@ -1,1 +1,2 @@
-debug("Hello World!")
+print("Hello World!")
+
